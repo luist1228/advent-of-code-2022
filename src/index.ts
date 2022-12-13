@@ -1,4 +1,4 @@
-import code from './challenges/3rd/code';
+import code from './challenges/4th/code';
 
 const result = code();
 
